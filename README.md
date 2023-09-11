@@ -1,8 +1,7 @@
 ## Oi 👋, Eu sou a Kauana Balena
 
 - 🌱 Atualmente estou aprendendo HTML, CSS e Java Script.
-- 📃 Aqui estão minhas habilidades : https://www.linkedin.com/in/kauana-mantovani1
-- 📚 Sou formada em Engenharia de Produção, mas encontrei um imenso interesse na área de Desenvolvimento Web e como parte de uma nova jornada, decidi me especializar realizando a formação em Tecnologia da Escola DNC.
+- 📚 Sou formada em Engenharia de Produção, mas encontrei um imenso interesse pela área de Desenvolvimento Web e como parte dessa nova jornada, decidi me especializar realizando a formação em Tecnologia da Escola DNC.
 
 #
 
