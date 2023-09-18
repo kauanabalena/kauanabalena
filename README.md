@@ -1,4 +1,4 @@
-## Oi 👋, Eu sou a Kauana Balena
+## Oi 👋, Eu sou a Kauana !!!
 
 - 🌱 Atualmente estou aprendendo HTML, CSS e Java Script.
 - 📚 Sou formada em Engenharia de Produção, mas encontrei um imenso interesse pela área de Desenvolvimento Web e como parte dessa nova jornada, iniciei a formação em Tecnologia da Escola DNC.
