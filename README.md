@@ -1,12 +1,16 @@
-## Oi 👋, Eu sou a Kauana !!!
+## 👋 Olá, eu sou a Kauana!
 
-- 🌱 Atualmente estou aprendendo HTML, CSS e Java Script.
-- 📚 Sou formada em Engenharia de Produção, mas encontrei um imenso interesse pela área de Desenvolvimento Web e como parte dessa nova jornada, iniciei a formação em Tecnologia da Escola DNC.
+🌱 Atualmente, estou em um emocionante processo de aprendizado, focado em tecnologias relacionadas ao desenvolvimento web como: HTML, CSS, JavaScript, React, Sass.
+
+📚 Sou formada em Engenharia de Produção, mas encontrei um imenso interesse pela área de Desenvolvimento Web e como parte dessa nova jornada, iniciei uma formação em Tecnologia.
 
 #
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="js" height="50" width="150" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
+  <img align="center" alt="html" height="50" width="110" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5">
+  <img align="center" alt="css" height="50" width="110" src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4">
+  <img align="center" alt="css" height="50" width="110" src="https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass">
+  <img align="center" alt="css" height="50" width="110" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react">
+  
 </div>
