@@ -1,17 +1,24 @@
-## 👋 Olá, eu sou a Kauana!
+<h1> 👋 Olá, eu sou a Kauana! 💻 </h1>
 
-🌱 Atualmente, estou em um emocionante processo de aprendizado, focado em tecnologias relacionadas ao desenvolvimento web como: HTML, CSS, JavaScript, React, Sass.
 
-📚 Sou formada em Engenharia de Produção, mas encontrei um imenso interesse pela área de Desenvolvimento Web e como parte dessa nova jornada, iniciei uma formação em Tecnologia.
-
-#
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="html" height="50" width="110" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5">
-  <img align="center" alt="css" height="50" width="110" src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4">
-  <img align="center" alt="js" height="50" width="150" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
-  <img align="center" alt="css" height="50" width="110" src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react">
-  <img align="center" alt="css" height="50" width="110" src="https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass">
-  
-  
+<div>  
+     <a href = "mailto:kauanabalena@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+     <a href="https://www.linkedin.com/in/kauana-mantovani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<h2 align="left">
+Este é o meu ambiente favorito, onde ideias e inovação se transformam em código. 
+</h2>
+
+<p>Sou graduada em Engenharia de Produção e recentemente despertei um grande interesse pela área de Desenvolvimento web. Como parte dessa empolgante jornada, iniciei uma formação em Tecnologia, imersa em um processo contínuo de aprendizado focado nas tecnologias relacionadas ao desenvolvimento web. A cada dia, tenho explorado e descoberto mais sobre esse fascinante universo. Acredito profundamente que a tecnologia oferece oportunidades incríveis para aprimorar a qualidade de vida das pessoas. Estou comprometida em aproveitar ao
+máximo essa transição, buscando integrar as habilidades adquiridas na Engenharia de Produção de maneiras inovadoras no campo do desenvolvimento web.</p>
+
+
+<p>Você pode entrar em contato comigo via e-mail: <a href="mailto:kauanabalena@gmail.com"> kauanabalena@gmail.com</a></p> 
+<br>
+
+
+<p> Tenho conhecimento em: </p>
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,react,nodejs,vuejs,sass,bootstrap,mongodb,mysql,git,github,figma,vscode,
+)](https://skillicons.dev)
